@@ -1,0 +1,15 @@
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\bin\Debug\net6.0\Task13.exe
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\bin\Debug\net6.0\Task13.deps.json
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\bin\Debug\net6.0\Task13.dll
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\bin\Debug\net6.0\Task13.pdb
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\Task13.dll
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\refint\Task13.dll
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\Task13.pdb
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
+C:\Users\GGG98\Desktop\C#Sem2\HomeWorkSem2\Task13\obj\Debug\net6.0\ref\Task13.dll
